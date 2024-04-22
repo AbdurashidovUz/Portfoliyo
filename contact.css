@@ -1,0 +1,36 @@
+.contact{
+    padding: 100px 20px;
+    
+}
+/* Styling for email input, text input, and text area input */
+input[type="email"],
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+    transition: border-color 0.3s ease-in-out;
+    margin-bottom: 10px;
+}
+
+
+/* Style for when the email input, text input, and text area input are focused */
+input[type="email"]:focus,
+input[type="text"]:focus,
+textarea:focus {
+    outline: none;
+    border-color: #007bff; /* Example color change on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Example box shadow on focus */
+}
+
+/* Style for disabled input and disabled textarea */
+input:disabled,
+textarea:disabled {
+    background-color: #f2f2f2;
+    color: #666;
+    cursor: not-allowed;
+}
