@@ -35,7 +35,7 @@ Portfoliyo is a responsive webpage designed to showcase personal portfolio infor
 
 ## Usage
 
-1. Open `index.html` in a web browser to view the webpage.
+1. Open `portfoliyo.html` in a web browser to view the webpage.
 
 2. Navigate through the different sections using the main navigation menu links.
 
