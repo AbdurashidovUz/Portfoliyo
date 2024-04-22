@@ -25,8 +25,7 @@ Portfoliyo is a responsive webpage designed to showcase personal portfolio infor
 
 ## Installation
 
-1. Clone this repository to your local machine:
-    git clone:
+1. Clone this repository to your local machine: https://github.com/AbdurashidovUz/Portfoliyo.git
 
 2. Open the project directory in your preferred code editor.
 
